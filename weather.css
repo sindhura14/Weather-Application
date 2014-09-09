@@ -1,0 +1,121 @@
+html, body {
+
+
+    font: 300 1em "Helvetica Neue";
+    padding: 1em;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+div.original{
+    margin: 0 400px;
+    width: 45%;
+    padding: 1em;
+    display: inline-block;
+
+}
+
+.welcome1#w{
+
+    margin-left: 170px;
+    font-weight: normal;
+    font-size: 2em;
+
+}
+
+.welcome1#to{
+    margin-left: 220px;
+}
+
+#welcome2{
+    font-size: 2em;
+    justify-content: center;
+    font-weight: normal;
+    font-family: "Helvetica Neue";
+    margin-left:30px;
+
+
+}
+
+.small{
+    font-size: 0.8em;
+}
+
+#inp{
+    display: inline-block;
+    box-shadow: 0 0 0.5em gray;
+    height: 20px;
+    width: 320px;
+    border-radius: 6px;
+    margin: 0 auto;
+}
+
+div.weather_container{
+    margin-left: 35%;
+    width: 35%;
+    padding: 1em;
+    background-color: whitesmoke;
+    border-radius: 1px;
+    box-shadow: 0 0 5px gray;
+    display: inline-block;
+
+}
+
+div.city{
+    font-size: 1.5em;
+}
+
+
+div.date, div.weather_desc{
+    color: #888;
+    font-size: 1em;
+
+}
+
+/*  div.container_2{
+
+
+      margin: 0 auto;
+      display: inline-block;
+
+  }*/
+
+.temp{
+    display: inline-block;
+    font-size: 2em;
+}
+
+
+div.right, div.left {
+
+    display: inline-block;
+
+    margin: 0.5em;
+
+}
+
+div.left{
+    display: inline-block;
+    float: left;
+}
+
+div.right{
+
+    float: right;
+    padding-left: 2em;
+
+
+}
+
+.pic{
+    display: inline-block;
+}
+
+.temp{
+    display: inline-block;
+}
+.unit{
+    display: inline-block;
+    vertical-align: super;
+    font-size: 0.4em;
+}
